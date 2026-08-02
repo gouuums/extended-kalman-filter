@@ -1,7 +1,4 @@
-# extended-kalman-filter-project
-
-A project for a Filtering methods course, implementing an Extended Kalman Filter to a Bearings Only Tracking problem, with two noisy sensors. Deriving the maths and implemntation in R, while offering a comprehensive understanding of the problem, highlighting the main limitations of the proposed approach.
-# Extended Kalman Filter (EKF) Project Report: Bearings-Only Tracking
+# Extended Kalman Filter (EKF) project report: Bearings-only tracking
 
 **Authors:** Thomas GOUMONT — Léo GRUCHOCIAK
 **Date:** January 26, 2026
@@ -9,7 +6,7 @@ A project for a Filtering methods course, implementing an Extended Kalman Filter
 
 ## 📋 Overview
 
-This repository contains the final project report and code focusing on Target Motion Analysis (TMA), specifically addressing the problem of Bearings-Only Tracking (BOT) using state-space model inference techniques.
+This repository contains the final project report and code for a Filtering methods course, focusing on Target Motion Analysis (TMA), specifically addressing the problem of Bearings-Only Tracking (BOT) using state-space model inference techniques.
 
 Using Python/R workflows and the Extended Kalman Filter (EKF), the project evaluates how noisy angular measurements from one or multiple sensors can be used to reconstruct a moving target's kinematics under a Nearly Constant Velocity (NCV) model.
 
