@@ -4,7 +4,7 @@
 
 **Date:** January 26, 2026
 
-**Institution:** ENSAI (National School for statistics and Data Science)
+**Institution:** ENSAI (National School for Statistics and Data Science)
 
 ## 📋 Overview
 
