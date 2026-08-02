@@ -4,7 +4,7 @@
 
 **Date:** January 26, 2026
 
-**Institution:** ENSAI (Filtrage linéaire et non-linéaire - Projet - Sujet n°1)
+**Institution:** ENSAI (National School for statistics and Data Science)
 
 ## 📋 Overview
 
