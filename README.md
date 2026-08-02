@@ -1,7 +1,9 @@
 # Extended Kalman Filter (EKF) project report: Bearings-only tracking
 
 **Authors:** Thomas GOUMONT — Léo GRUCHOCIAK
+
 **Date:** January 26, 2026
+
 **Institution:** ENSAI (Filtrage linéaire et non-linéaire - Projet - Sujet n°1)
 
 ## 📋 Overview
